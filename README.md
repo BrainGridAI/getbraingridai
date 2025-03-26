@@ -82,7 +82,7 @@ If you encounter any issues:
 
 ## Support
 
-For issues and feature requests, please visit our [support page](https://braingrid.ai/support).
+For issues and feature requests, please visit our [GitHub Issues](https://github.com/BrainGridAI/getbraingridai/issues) page.
 
 ## License
 
