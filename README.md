@@ -25,9 +25,18 @@ BrainGrid is a powerful extension that helps you discover and utilize AI-powered
 
 ## Installation
 
-1. Download the latest `.vsix` file from our [releases page](https://github.com/BrainGridAI/getbraingridai/releases)
-2. In Cursor IDE, open the Extensions panel (Ctrl+Shift+X)
-3. Click the "..." menu and select "Install from VSIX..."
+### 1. Install from VS Code Marketplace (Recommended)
+
+1. Open Cursor
+2. Click the Extensions icon in the sidebar (or press `Cmd+Shift+X` on Mac, `Ctrl+Shift+X` on Windows/Linux)
+3. Search for "BrainGridAI"
+4. Click "Install"
+
+### 2. Alternative Installation Methods
+
+1. Download the latest `.vsix` file from the [latest release](https://github.com/BrainGridAI/getbraingridai/releases)
+2. In Cursor IDE, press `Cmd+Shift+P` on Mac, `Ctrl+Shift+P` on Windows/Linux
+3. Type: "Extensions: Install from VSIX..."
 4. Choose the downloaded `.vsix` file
 
 ## Getting Started
