@@ -52,7 +52,6 @@ Once you've created an account and logged in through the extension, you'll have 
 - **Private Rules**: Create and manage your own custom rules
 - **Team Rules**: Access and collaborate on rules shared with your team
 - **Rule Collections**: Organize rules into custom collections
-- **Usage Analytics**: Track your rule usage and effectiveness
 
 Note: An account is not required to browse and install community rules. Account creation is only needed for accessing private and team features.
 
