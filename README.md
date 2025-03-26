@@ -15,6 +15,8 @@ BrainGrid is a powerful extension that helps you discover and utilize AI-powered
 - ⚡ **One-Click Installation**: Install rules instantly with a single click
 - 👀 **Rule Preview**: Preview rules before installation to ensure they match your needs
 - 🛠️ **Automatic Setup**: Required directories and configurations are set up automatically
+- 👤 **Account Integration**: Sign in to access your private rules and team rules
+- 👥 **Team Collaboration**: Share and manage rules with your team members
 
 ## Prerequisites
 
@@ -31,9 +33,28 @@ BrainGrid is a powerful extension that helps you discover and utilize AI-powered
 ## Getting Started
 
 1. Open the BrainGrid sidebar (look for the brain icon in the activity bar)
-2. Browse or search for rules that match your development needs
+2. Browse or search for community rules that match your development needs
 3. Click on a rule to view its detailed description and use cases
 4. Click "Install" to add the rule to your project
+
+### Accessing Private and Team Features
+
+To access private rules, team rules, and other advanced features:
+
+1. Create an account at [app.braingrid.ai](https://app.braingrid.ai)
+2. Click the login button in the BrainGrid sidebar
+3. Connect your account to unlock additional features
+
+## Account Features
+
+Once you've created an account and logged in through the extension, you'll have access to:
+
+- **Private Rules**: Create and manage your own custom rules
+- **Team Rules**: Access and collaborate on rules shared with your team
+- **Rule Collections**: Organize rules into custom collections
+- **Usage Analytics**: Track your rule usage and effectiveness
+
+Note: An account is not required to browse and install community rules. Account creation is only needed for accessing private and team features.
 
 ## Privacy
 
